@@ -8,6 +8,6 @@
 <p> TECH LEAD _ FLUTTER<br> Sarkari Coder<br> http://keshav-speaks.me/ </p>
 
 <h2>Mirthula M</h2> 
-<p> TECH associate and PR <br> Machine learning enthusiast <br> https://linkedin.com/in/mirthula-m-77b1461a4 </p>
+<p> Tech associate and PR <br> Machine learning enthusiast <br> https://linkedin.com/in/mirthula-m-77b1461a4 </p>
 
 
